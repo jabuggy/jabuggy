@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jabuggy
-- 👀 I’m interested in UI development
+- 👀 I’m interested in frontend development
 - 🌱 I’m currently learning more about full stack
 - 💞️ I’m looking to learn more
 
